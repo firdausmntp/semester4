@@ -15,6 +15,6 @@ public class Main {
 
         System.out.println("Nama: " + person.getName());
 
-        // person.printAddress();
+        person.printAddress();
     }
 }

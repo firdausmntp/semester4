@@ -26,7 +26,7 @@ public class Person {
     }
 
     // Method default (package-private)
-    void printAddress() {
+    public void printAddress() {
         System.out.println("Alamat: " + address);
     }
 
